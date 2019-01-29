@@ -1,0 +1,1 @@
+Desarrollo del sitio web de la empresa Backstage y Marketing con el framework Django, basado en Python
